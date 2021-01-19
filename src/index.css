@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+*{
+    font-family: 'Comfortaa', cursive;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.Nav_menu{
+    border-bottom:1px solid red;
+    font-weight: bold;
+    color: blueviolet;
+}
+.contectform{
+    display: grid;
+    align-items:center;
+    justify-content:center;
+}
